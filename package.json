@@ -1,0 +1,17 @@
+{
+  "name": "parsedate",
+  "version": "1.0.0",
+  "description": "Parses words for date",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "words-to-numbers": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Boynton",
+  "license": "ISC"
+}
